@@ -1,4 +1,4 @@
-const tournamentDataMen = {
+{
     name: "2024 Olympic Games - Men's Basketball",
     children: [
         {
@@ -323,4 +323,4 @@ const tournamentDataMen = {
             ]
         }
     ]
-};
+}
